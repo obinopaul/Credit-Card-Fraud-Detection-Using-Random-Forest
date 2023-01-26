@@ -30,5 +30,5 @@ This is a simplified version of the Credit Card Fraud Detection problem, just fo
 Please feel free to use the code and dataset in this repository for your own research or projects. If you have any questions or suggestions, please open an issue or pull request.
 
 References                                                                      
-[Credit Card Fraud Detection Dataset] (https://www.kaggle.com/datasets/kartik2112/fraud-detection?datasetId=817870&sortBy=voteCount)
+[Credit Card Fraud Detection Dataset](https://www.kaggle.com/datasets/kartik2112/fraud-detection?datasetId=817870&sortBy=voteCount)
 
