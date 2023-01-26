@@ -10,7 +10,7 @@ numpy
 
 Usage
 1. Clone this repository to your local machine.                 
-git clone https://github.com/your-username/credit-card-fraud-detection.git
+git clone https://github.com/obinopaul/Credit-Card-Fraud-Detection-Using-Random-Forest.git 
 
 2. Install the required packages.                                                   
 pip install -r requirements.txt
