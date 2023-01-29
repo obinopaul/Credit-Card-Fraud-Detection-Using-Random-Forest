@@ -1,7 +1,8 @@
 # Credit-Card-Fraud-Detection-Using-Random-Forest
-...................................................
-            
+                                    
 This repository contains the code and documentation for a machine learning model that uses Random Forest algorithm to detect credit card fraud. The model is trained on a dataset of credit card transactions and is able to identify fraudulent transactions with a high degree of accuracy.
+
+This study explored a simulated Credit Card Transactions Fraud Detection Dataset provided by Kaggle (an online dataset repository) covering transactions made with credit cards from 1 January 2019 to 31 December 2020 by 1,000 clients working with a network of 800 merchants. A random forest architecture was the preferred tool adopted to train the model by tuning the model hyperparameters in order to achieve the best performance. Random forests were selected because of their ability to handle large and complex datasets, and they often outperform single decision trees model. They are also resistant to overfitting, which makes them a popular choice for many machine learning applications
         
 ## Requirements     
 Python 3.x        
@@ -12,18 +13,18 @@ Seaborn
 Matplotlib        
           
 ## Usage            
-1. Clone this repository to your local machine.                 
-'''bash
+### Clone this repository to your local machine.                 
+```bash
 git clone https://github.com/obinopaul/Credit-Card-Fraud-Detection-Using-Random-Forest.git 
-'''
+```
       
-2. Install the required packages.                                                   
-'''bash
+### Install the required packages.                                                   
+```bash
 pip install -r requirements.txt
-'''
+```
       
-3. Run the Jupyter notebook file credit_card_fraud_detection.ipynb to train the model and make predictions on new data.                                 
-4. The notebook contains detailed instructions and explanations of the code.                                    
+### Run the Jupyter notebook file credit_card_fraud_detection.ipynb to train the model and make predictions on new data.                                 
+### The notebook contains detailed instructions and explanations of the code.                                    
     
 ## Dataset                                                               
 The dataset used to train and test the model is the Credit Card Fraud Detection dataset from [Kaggle](https://www.kaggle.com/datasets/kartik2112/fraud-detection?datasetId=817870&sortBy=voteCount). It contains a simulated Credit Card Transactions Fraud Detection Dataset. Transactions from the dates 1 January 2019 to 31 December 2020 are included in the simulated dataset, both genuine and fraudulent. It covers transactions made with credit cards by 1,000 clients working with a network of 800 merchants (Shenoy 2020). 
